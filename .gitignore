@@ -1,6 +1,7 @@
 token.0
 __pycache__
-
+*jdk-13.0.2
+.vscode
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
